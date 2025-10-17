@@ -1,6 +1,5 @@
 import BookCard from '@/components/BookCard';
 import CategoryTag from '@/components/CategoryTag';
-import { Zap, BrainCircuit, Users } from 'lucide-react';
 
 const HomePage = () => {
   // Mock data - this will be replaced with data from Supabase

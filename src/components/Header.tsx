@@ -1,4 +1,4 @@
-import { BookOpen, MessageSquare, UploadCloud, User } from 'lucide-react';
+import { BookOpen, UploadCloud, User } from 'lucide-react';
 
 const Header = () => {
   return (
